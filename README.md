@@ -1,9 +1,5 @@
 # Netflix-Clone
 Clone of Netflix App
-<img width="307" alt="Screenshot 2023-09-21 at 19 37 55" src="https://github.com/uyguntursunov/Netflix-Clone/assets/122126318/af6a98ff-1595-4055-ac9b-4a25dcc78fd6">
+![Simulator Screenshot - iPhone 15 Pro - 2023-09-21 at 21 11 55](https://github.com/uyguntursunov/Netflix-Clone/assets/122126318/201c4779-3926-4e62-a2c6-cd1410066dfa)
+![Simulator Screenshot - iPhone 15 Pro - 2023-09-21 at 21 09 48](https://github.com/uyguntursunov/Netflix-Clone/assets/122126318/6445b0b0-3ade-4c28-a677-564c2f1aead7)
 
-
-<img width="307" alt="Screenshot 2023-09-21 at 19 40 51" src="https://github.com/uyguntursunov/Netflix-Clone/assets/122126318/4586bd54-37ba-4ce0-95a7-0fa4930e9187">
-
-
-<img width="307" alt="Screenshot 2023-09-21 at 19 38 41" src="https://github.com/uyguntursunov/Netflix-Clone/assets/122126318/9c1d72d8-2875-4f52-b9b4-c54157871d28">
